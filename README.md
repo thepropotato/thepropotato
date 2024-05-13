@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <b>VENU PULAGAM</b>
+    <b>Venu Pulagam</b>
     <br>
     Tech artisan | I craft tech.
 </p>
@@ -49,7 +49,7 @@ Contact - <a href=mailto:notvenupulagam@gmail.com<>notvenupulagam@gmail.com</a><
 <br>
 <!------------------------- Languages ----------------------->
 
-<p align="center" style="width:100%; font-family:bungee hairline; font-size:large"><b>Languages & technologies</b></p>
+<p align="center" style="width:100%; font-family:bungee hairline; font-size:large"><b>LANGUAGES AND TECHNOLOGIES</b></p>
 
 
 <p align="center">
@@ -85,7 +85,7 @@ Contact - <a href=mailto:notvenupulagam@gmail.com<>notvenupulagam@gmail.com</a><
 
 <hr>
 <br>
-<p align="center" style="width:100%; font-family:bungee hairline; font-size:large"><b>Github Stats</b></p>
+<p align="center" style="width:100%; font-family:bungee hairline; font-size:large"><b>GITHUB STATS</b></p>
 <p align="center" style="width:100%">
   <a href="https://github.com/thepropotato">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thepropotato&theme=radical" alt="GitHub Contribution" width=100%/>
